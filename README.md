@@ -1,17 +1,7 @@
 # flutter_todo_app
 
-A new Flutter application.
+플루터를 이용한 TODO LIST APP
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_todo_app
+HTTP를 사용한 기본적인 Widget TODO LIST APP BLOC 앱을 따로 리파지토리에 해서 소스 비교를 위한 것.
